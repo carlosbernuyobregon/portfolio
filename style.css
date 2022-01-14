@@ -1,0 +1,22 @@
+.background{
+    background-color: #f1f4f7;
+}
+
+.dropdown-item:hover {
+    background-color: #2565AE;
+    color: white;
+}
+
+.text-maroon {
+    color: #2565AE;
+}
+
+.btn-maroon {
+    color: #fff;
+    background-color: #2565AE;
+    border-color: #2565AE;
+}
+
+.bg-maroon {
+    background-color: #2565AE;
+}
